@@ -1,0 +1,1 @@
+export { Div as Div } from 'react-native-magnus'
